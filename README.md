@@ -1,20 +1,25 @@
-# Design a class structure for cars
+# Design Backend structure using CSharp
 
-Think about the real life and imagine what the cars look like. That will help you get ideas into the code
+In this assignment, you are required to design structure and hierachy for a backend service. you can choose between two topics:
 
-## Requirements
+1. E-commerce platform
+2. Library Management
 
-Use the following if you can or needed:
+You will decide to whether use class/interface/struct for each situation.
 
-- Abstract classes
-- Inheritance (to represent different cars)
-- Virtual methods/properties
-- Enums
-- Structs if needed
-- Override methods from Object class as needed
-- Construct a few car objects and test out in Program.cs
-- Remember the conventions: Put classes in different files (with property naming)
+## Library management system suggestions (or come up with your own design)
 
-## Run the program
+- User (consider different types of User)
+- Book
+- Category
+- Author
+- Cart
+- Optional: Review
 
-`dotnet run --project CarBuilder`
+## Ecommerce Website suggestions (or come up with your own design)
+
+- User (consider different types of User)
+- Product
+- Category
+- Cart
+- Optional: Review
