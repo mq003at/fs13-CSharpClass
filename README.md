@@ -17,4 +17,4 @@ Use the following if you can or needed:
 
 ## Run the program
 
-`dotnet run --project CarBuilder`
+`dotnet run --project CarBuilder --watch`
