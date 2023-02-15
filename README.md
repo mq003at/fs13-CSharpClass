@@ -15,6 +15,3 @@ Use the following if you can or needed:
 - Construct a few car objects and test out in Program.cs
 - Remember the conventions: Put classes in different files (with property naming)
 
-## Run the program
-
-`dotnet run --project CarBuilder --watch`
